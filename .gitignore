@@ -1,0 +1,7 @@
+eval/ref/
+data/
+debug/
+checkpoints/
+pretrained/
+work_dirs/
+**/__pycache__/

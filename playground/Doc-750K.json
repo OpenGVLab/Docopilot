@@ -1,0 +1,162 @@
+{
+    "openreview_v2_reply_en_20241112": {
+        "info": "Multiple Image | OpenReview QA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/openreview/openreview_v2_reply_en_20241112.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 6,
+        "repeat_time": 0.1,
+        "length": 77695,
+        "ds_type": "sft"
+    },
+    "openreview_v2_review_en_20241112": {
+        "info": "Multiple Image | OpenReview QA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/openreview/openreview_v2_review_en_20241112.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 6,
+        "repeat_time": 0.05,
+        "length": 147571,
+        "ds_type": "sft"
+    },
+    "scihub_translation_en2zh_20241113": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/scihub/scihub_translation_en2zh_20241113.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 2,
+        "length": 4213,
+        "ds_type": "sft"
+    },
+    "generated_multi_qa_rendered_part2_en_20241223": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/generated/generated_multi_qa_rendered_part2_en_20241223.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 3104,
+        "ds_type": "sft"
+    },
+    "scihub_image_pdf_le_18_img_en_new_20241228": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/scihub/scihub_image_pdf_le_18_img_en_new_20241228.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 2541,
+        "ds_type": "sft"
+    },
+    "generated_multi_qa_rendered_en_new_20241228": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/generated/generated_multi_qa_rendered_en_new_20241228.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 6,
+        "repeat_time": 1,
+        "length": 8448,
+        "ds_type": "sft"
+    },
+    "generated_multi_qa_interleaved_en_new_20241229": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/generated/generated_multi_qa_interleaved_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 6,
+        "repeat_time": 1,
+        "length": 8448,
+        "ds_type": "sft"
+    },
+    "generated_multi_qa_en_new_20241229": {
+        "info": "Multiple Image | Generated LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/generated/generated_multi_qa_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 3387,
+        "ds_type": "sft"
+    },
+    "generated_single_qa_en_new_20241229": {
+        "info": "Multiple Image | Generated LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/generated/generated_single_qa_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 8736,
+        "ds_type": "sft"
+    },
+    "scihub_task1_5000_en_new_20241229": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/scihub/scihub_task1_5000_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 5000,
+        "ds_type": "sft"
+    },
+    "scihub_task2_5000_en_new_20241229": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/scihub/scihub_task2_5000_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 5000,
+        "ds_type": "sft"
+    },
+    "scihub_task3_5000_en_new_20241229": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/scihub/scihub_task3_5000_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 5000,
+        "ds_type": "sft"
+    },
+    "scihub_task4_5000_en_new_20241229": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/scihub/scihub_task4_5000_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 5000,
+        "ds_type": "sft"
+    },
+    "scihub_task5_5000_en_new_20241229": {
+        "info": "Multiple Image | SciHub LongQA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/scihub/scihub_task5_5000_en_new_20241229.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 1,
+        "length": 5000,
+        "ds_type": "sft"
+    },
+    "arxivqa_interleaved_en_new_20241231": {
+        "info": "Multiple Image | Arxiv QA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/arxivqa/arxivqa_interleaved_en_new_20241231.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 6,
+        "repeat_time": 1,
+        "length": 31037,
+        "ds_type": "sft"
+    },
+    "arxivqa_rendered_en_new_20241231": {
+        "info": "Multiple Image | Arxiv QA",
+        "root": "data/Doc-750K/",
+        "annotation": "data/Doc-750K/arxivqa/arxivqa_rendered_en_new_20241231.jsonl",
+        "data_augment": true,
+        "max_dynamic_patch": 24,
+        "repeat_time": 2,
+        "length": 30933,
+        "ds_type": "sft"
+    }
+}
