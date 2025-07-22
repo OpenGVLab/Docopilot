@@ -1,6 +1,6 @@
 # Docopilot: Improving Multimodal Models for Document-Level Understanding
 
-The official implementation of the paper "[Docopilot: Improving Multimodal Models for Document-Level Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Duan_Docopilot_Improving_Multimodal_Models_for_Document-Level_Understanding_CVPR_2025_paper.html)". 
+The official implementation of the paper "[Docopilot: Improving Multimodal Models for Document-Level Understanding](https://arxiv.org/abs/2507.14675)". 
 
 <!-- <div align="center">
     <img src="assets/fig1_hf_00.png" alt="drawing" width="600"/>
@@ -8,7 +8,7 @@ The official implementation of the paper "[Docopilot: Improving Multimodal Model
 
 <div align="center">
 
-[\[📜 Paper\]](https://openaccess.thecvf.com/content/CVPR2025/html/Duan_Docopilot_Improving_Multimodal_Models_for_Document-Level_Understanding_CVPR_2025_paper.html)  [ \[🤗 HF Models 2B |](https://huggingface.co/OpenGVLab/Docopilot-2B)[ 8B \]](https://huggingface.co/OpenGVLab/Docopilot-8B)  [\[📖 HF Datasets\]](https://huggingface.co/datasets/OpenGVLab/Doc-750K)
+[\[📜 Paper\]](https://arxiv.org/abs/2507.14675)  [ \[🤗 HF Models 2B |](https://huggingface.co/OpenGVLab/Docopilot-2B)[ 8B \]](https://huggingface.co/OpenGVLab/Docopilot-8B)  [\[📖 HF Datasets\]](https://huggingface.co/datasets/OpenGVLab/Doc-750K)
 
 </div>
 
